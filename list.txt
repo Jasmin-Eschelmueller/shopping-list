@@ -20,3 +20,5 @@ Kiwi
 Kirschen
 
 Pfirsich 
+
+Himbeeren
