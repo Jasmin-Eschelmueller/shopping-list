@@ -6,4 +6,8 @@ Bier
 
 Leberkäse
 
- Banananen
+Banananen
+ - Bio
+ - Fairtrade
+ - Frosch
+ 
