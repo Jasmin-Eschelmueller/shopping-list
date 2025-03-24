@@ -24,3 +24,5 @@ Pfirsich
 Himbeeren
 
 Brombeeren
+
+Lychee
