@@ -4,10 +4,6 @@ Ananas
 
 Birnen
 
-Bier
-
-Leberkäse
-
 Banananen
  - Bio
  - Fairtrade
@@ -28,6 +24,8 @@ Himbeeren
 Brombeeren
 
 Lychee
+
+Sternenfrucht
 
 Marillen
 
